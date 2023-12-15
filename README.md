@@ -1,0 +1,2 @@
+I created a task list application, simply you should be able to add a task, have it start unchecked, check it once complete and remove it. There is an input section for you to write your task and then the "Add Task" button. Once the button is clicked you should see your task at the bottom.
+Once the task is added you should be able to check it once the task is complete or remove it. It will also continue to show whatever tasks you have even after a refresh. 
